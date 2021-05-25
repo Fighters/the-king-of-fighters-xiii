@@ -1,0 +1,106 @@
+{
+  "names": [
+    {
+      "region": "default",
+      "roman": "The King of Fighters XIII"
+    },
+    {
+      "region": "japan",
+      "roman": "The King of Fighters XIII",
+      "original": "ザ・キング・オブ・ファイターズ XIII"
+    }
+  ],
+  "also-known-as": [
+    "kof xiii",
+    "xiii",
+    "kof 13"
+  ],
+  "platforms": [
+    {
+      "name": "Arcade",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters XIII",
+          "original": "ザ・キング・オブ・ファイターズ XIII",
+          "releaseDate": "07-14-2010",
+          "developer": "SNK Playmore",
+          "publisher": "SNK Playmore"
+        }
+      ]
+    },
+    {
+      "name": "PlayStation 3",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters XIII",
+          "original": "ザ・キング・オブ・ファイターズ XIII",
+          "releaseDate": "12-01-2011",
+          "developer": "SNK Playmore",
+          "publisher": "SNK Playmore",
+          "coverFront": ""
+        },
+        {
+          "name": "Europe",
+          "roman": "The King of Fighters XIII",
+          "releaseDate": "11-25-2011",
+          "developer": "SNK Playmore",
+          "publisher": "Rising Star Games",
+          "coverFront": ""
+        },
+        {
+          "name": "United States",
+          "roman": "The King of Fighters XIII",
+          "releaseDate": "11-22-2011",
+          "developer": "SNK Playmore",
+          "publisher": "Atlus",
+          "coverFront": ""
+        }
+      ]
+    },
+    {
+      "name": "Xbox 360",
+      "regions": [
+        {
+          "name": "Japan",
+          "roman": "The King of Fighters XIII",
+          "original": "ザ・キング・オブ・ファイターズ XIII",
+          "releaseDate": "12-01-2011",
+          "developer": "SNK Playmore",
+          "publisher": "SNK Playmore",
+          "coverFront": ""
+        },
+        {
+          "name": "Europe",
+          "roman": "The King of Fighters XIII",
+          "releaseDate": "11-25-2011",
+          "developer": "SNK Playmore",
+          "publisher": "Rising Star Games",
+          "coverFront": ""
+        },
+        {
+          "name": "United States",
+          "roman": "The King of Fighters XIII",
+          "releaseDate": "11-22-2011",
+          "developer": "SNK Playmore",
+          "publisher": "Atlus",
+          "coverFront": ""
+        }
+      ]
+    },
+    {
+      "name": "PC",
+      "regions": [
+        {
+          "name": "United States",
+          "roman": "The King of Fighters XIII Steam Edition",
+          "releaseDate": "09-13-2013",
+          "developer": "SNK Playmore",
+          "publisher": "SNK Playmore",
+          "coverFront": ""
+        }
+      ]
+    }
+  ]
+}
